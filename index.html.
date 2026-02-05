@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Audio</title>
+</head>
+<body>
+  <h1>Escuchar audio</h1>
+
+  <audio controls>
+  <source src="https://drive.google.com/uc?export=download&id=1wzQ4YfFYECOnnP_dqMc9ki9eYUXHeZ-G" type="audio/mpeg">
+  Tu navegador no soporta audio.
+</audio>
+
+</body>
+</html>
